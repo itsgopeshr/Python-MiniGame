@@ -10,7 +10,7 @@ A fun, interactive console gaming application featuring classic mini-games. This
 * **Dice Roll Game:** Roll the dice against the computer to see who gets the higher number.
 
 ## 📂 Project Structure
-
+```text
 game_project/
 │── main.py                     # Arcade menu and game launcher
 │── README.md                   # Project documentation
