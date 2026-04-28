@@ -1,5 +1,5 @@
 # Python-MiniGame
-```markdown
+
 # Python Arcade: Mini-Games Collection 🎲
 
 A fun, interactive console gaming application featuring classic mini-games. This project highlights the use of Python's `random` module, modular function design, and strict package architecture.
@@ -10,7 +10,7 @@ A fun, interactive console gaming application featuring classic mini-games. This
 * **Dice Roll Game:** Roll the dice against the computer to see who gets the higher number.
 
 ## 📂 Project Structure
-```text
+
 game_project/
 │── main.py                     # Arcade menu and game launcher
 │── README.md                   # Project documentation
